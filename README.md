@@ -26,14 +26,14 @@
 
 ## 👋 Introduction
 
-Hi, I'm **Ragavi R** — a Computer Science and Engineering student passionate about Full Stack Development and building responsive, real-world web applications. I'm currently expanding my skills across the stack while exploring Software Development and AI.
+Hi, I'm **Ragavi R** — a Computer Science and Engineering student passionate about Full Stack Development, Python Development and building responsive, real-world web applications. I'm currently expanding my skills across the stack while exploring Software Development and AI.
 
 ---
 
 ## 🧬 About Me
 
 - 🎓 Computer Science and Engineering student
-- 💻 Interested in Full Stack Development
+- 💻 Interested in Full Stack Development and Python Development
 - 🌐 Passionate about Web Development
 - 📚 Learning modern technologies
 - 🎨 Love building responsive web applications
@@ -207,8 +207,6 @@ Hi, I'm **Ragavi R** — a Computer Science and Engineering student passionate a
 
 ```yaml
 currently_learning:
-  - React
-  - Node.js
   - Full Stack Development
   - Data Structures and Algorithms
 ```
